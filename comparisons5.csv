@@ -1,0 +1,8 @@
+name_of_comparison,M28z_day0_BC,M28z_sick_M11_M17_M19,M28z_sick_M14,M1XX_day0_BC,M1XX_interim_M6,M1XX_interim_M7,M1XX_sick_M20,M1XX_sick_M1_M5_M13,M1XX_sick_M16,M1XX_startsick_M2_M15,M1XX_controller_M8,M1XX_controller_M12
+M28 sick vs M28 D0,b,a,a,,,,,,,,,
+M28 sick vs (M28 D0+M1XX D0),b,a,a,b,,,,,,,,
+M28 sick vs M1XX (except controllers),,a,a,,b,b,b,b,b,b,,
+M1XX (except controllers) vs M1XX D0,,,,b,a,a,a,a,a,a,,
+M1XX (except controllers) vs (M28 D0+M1XX D0),b,,,b,a,a,a,a,a,a,,
+M1XX (except controllers) vs M1XX controllers,,,,,a,a,a,a,a,a,b,b
+M28 sick vs M1XX (D63),,a,a,,b,b,b,,,,,
